@@ -1,6 +1,7 @@
 # Custom
 Content/ExternalAssets/
 Plugins/
+steam_appid.txt
 
 # Visual Studio 2015 user specific files
 .vs/
