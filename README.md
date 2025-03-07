@@ -9,9 +9,13 @@ This student project was made with Unreal 5.5 in 10 weeks and released to [itch.
 [Game Preview on Instagram](https://www.instagram.com/lemoncubegames/reel/DGQ0sxQofiF/)
 
 ## Responsibilities
-- Gameplay Programming
+- Programming
 - Music Creation
+- UI Implementation
 - Technical Support for the team
+
+## Highlights
+- [Player Blueprint](https://blueprintue.com/blueprint/yus1lx1z/)
 
 ## Dependencies
 Create the folder Content/ExternalAssets and import the following addons:
