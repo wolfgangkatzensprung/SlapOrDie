@@ -17,6 +17,7 @@ This student project was made with Unreal 5.5 in 10 weeks and released to [itch.
 ## Highlights
 - [Player Blueprint](https://blueprintue.com/blueprint/yus1lx1z/)
 - [Game Instance Blueprint](https://blueprintue.com/blueprint/qxum48_u/)
+- [CameraMove Function Blueprint](https://blueprintue.com/blueprint/sy24o045/)
 
 ## Dependencies
 Create the folder Content/ExternalAssets and import the following addons:
